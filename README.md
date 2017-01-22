@@ -1,2 +1,2 @@
 # tdd-by-example
-These source codes of the book 'Test Driven Development: by example' written by Kent Beck are used to study TDD.
+This repository has source codes from the book 'Test Driven Development: by example' written by Kent Beck to study TDD.
